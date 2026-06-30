@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
