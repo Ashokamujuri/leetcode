@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -38,9 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Geometry
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
