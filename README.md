@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
+| [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
+| [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
 ## Dynamic Programming
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
 ## Sliding Window
 |  |
