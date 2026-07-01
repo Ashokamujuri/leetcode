@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
+| [0858-mirror-reflection](https://github.com/Ashokamujuri/leetcode/tree/master/0858-mirror-reflection) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
+| [0858-mirror-reflection](https://github.com/Ashokamujuri/leetcode/tree/master/0858-mirror-reflection) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
 ## Sliding Window
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/Ashokamujuri/leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
