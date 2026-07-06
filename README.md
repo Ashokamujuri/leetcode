@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Ashokamujuri/leetcode/tree/master/1037-valid-boomerang) |
+| [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
