@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Geometry
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Database
 |  |
 | ------- |
