@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Ashokamujuri/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashokamujuri/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashokamujuri/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/Ashokamujuri/leetcode/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Ashokamujuri/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ashokamujuri/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashokamujuri/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
