@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Ashokamujuri/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ashokamujuri/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashokamujuri/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ashokamujuri/leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Ashokamujuri/leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ashokamujuri/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashokamujuri/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
