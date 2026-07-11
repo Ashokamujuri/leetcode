@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Ashokamujuri/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ashokamujuri/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashokamujuri/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Ashokamujuri/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Database
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ashokamujuri/leetcode/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
