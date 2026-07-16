@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ashokamujuri/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/Ashokamujuri/leetcode/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashokamujuri/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ashokamujuri/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashokamujuri/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashokamujuri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
