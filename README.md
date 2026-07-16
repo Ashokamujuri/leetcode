@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashokamujuri/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ashokamujuri/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Ashokamujuri/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ashokamujuri/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashokamujuri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
