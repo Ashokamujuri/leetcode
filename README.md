@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashokamujuri/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ashokamujuri/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashokamujuri/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashokamujuri/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ashokamujuri/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashokamujuri/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ashokamujuri/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ashokamujuri/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashokamujuri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ashokamujuri/leetcode/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashokamujuri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
