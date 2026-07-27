@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashokamujuri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ashokamujuri/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashokamujuri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2578-split-with-minimum-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ashokamujuri/leetcode/tree/master/1260-shift-2d-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
