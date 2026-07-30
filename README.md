@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Ashokamujuri/leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashokamujuri/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ashokamujuri/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashokamujuri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/Ashokamujuri/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashokamujuri/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashokamujuri/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashokamujuri/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashokamujuri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Ashokamujuri/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashokamujuri/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashokamujuri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashokamujuri/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Geometry
 |  |
