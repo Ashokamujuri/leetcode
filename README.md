@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashokamujuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashokamujuri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashokamujuri/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashokamujuri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2843-count-symmetric-integers](https://github.com/Ashokamujuri/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashokamujuri/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -318,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ashokamujuri/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashokamujuri/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
