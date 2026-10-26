@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashokamujuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashokamujuri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashokamujuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ashokamujuri/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashokamujuri/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashokamujuri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2578-split-with-minimum-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashokamujuri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashokamujuri/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ashokamujuri/leetcode/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2843-count-symmetric-integers](https://github.com/Ashokamujuri/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashokamujuri/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
@@ -313,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ashokamujuri/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ashokamujuri/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ashokamujuri/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
