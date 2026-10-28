@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Ashokamujuri/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ashokamujuri/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashokamujuri/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashokamujuri/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2578-split-with-minimum-sum](https://github.com/Ashokamujuri/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashokamujuri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashokamujuri/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Ashokamujuri/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/Ashokamujuri/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashokamujuri/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashokamujuri/leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashokamujuri/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashokamujuri/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Stack
 |  |
 | ------- |
@@ -346,8 +351,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ashokamujuri/leetcode/tree/master/0164-maximum-gap) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ashokamujuri/leetcode/tree/master/0164-maximum-gap) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ashokamujuri/leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
