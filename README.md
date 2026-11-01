@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Ashokamujuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashokamujuri/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/Ashokamujuri/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ashokamujuri/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Ashokamujuri/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Ashokamujuri/leetcode/tree/master/0908-smallest-range-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashokamujuri/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ashokamujuri/leetcode/tree/master/0162-find-peak-element) |
 | [0713-subarray-product-less-than-k](https://github.com/Ashokamujuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Ashokamujuri/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashokamujuri/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
