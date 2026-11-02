@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ashokamujuri/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashokamujuri/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Ashokamujuri/leetcode/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashokamujuri/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/Ashokamujuri/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashokamujuri/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ashokamujuri/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Ashokamujuri/leetcode/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ashokamujuri/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashokamujuri/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Ashokamujuri/leetcode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/Ashokamujuri/leetcode/tree/master/0858-mirror-reflection) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ashokamujuri/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ashokamujuri/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Ashokamujuri/leetcode/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashokamujuri/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashokamujuri/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ashokamujuri/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Ashokamujuri/leetcode/tree/master/0905-sort-array-by-parity) |
